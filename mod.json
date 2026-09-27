@@ -3,5 +3,7 @@
   "name": "Ganondorf",
   "version": "1.0.0",
   "author": "remiafterdark",
-  "description": "Play as Ganondorf, with customizable options."
+  "description": "Play as Ganondorf, with customizable options.",
+  "icon": "res/icon.png",
+  "banner": "res/banner.png"
 }

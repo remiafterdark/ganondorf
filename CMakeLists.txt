@@ -19,6 +19,7 @@ add_mod(ganondorf
              src/ganon.cpp
              src/voice.cpp
     MOD_JSON mod.json
+    RES_DIR  res
 )
 
 if(MSVC)
